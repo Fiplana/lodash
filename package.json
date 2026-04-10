@@ -57,5 +57,8 @@
     "sauce-tunnel": "^2.5.0",
     "uglify-js": "2.7.5",
     "webpack": "^1.14.0"
+  },
+  "dependencies": {
+    "infinity-map": "^1.0.1"
   }
 }
